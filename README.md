@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm MIKITA GRUDKOWSKI</h1>
-<h3 align="left">Front-end developer with experience increating SPA using React, Redux,Typescript, HTML, CSS, JS. Now I am improving my skills in thisdirection and expanding them with newtechnologies. My free time is dedicated to Codewars, learning English , programming tutorialsand becoming familiar with NodeJS,because, in the future, I see myself as a Full-stack developer.</h3>
+<h3 align="left">Front-end developer with experience increating SPA using React, Redux, Typescript, HTML, CSS, JS. Now I am improving my skills in this direction and expanding them with new technologies. My free time is dedicated to Codewars, learning English, programming tutorials and becoming familiar with NodeJS, because, in the future, I see myself as a Full-stack developer.</h3>
 
 - 🔭 I’m currently working on [Todolist](https://github.com/hrudkouski/todolist-ts)
 
